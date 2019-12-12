@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	background-color: #C7322A;
+	height: 10vh;
+}
+
+header .contact {
+	width: 3rem;
+	margin-left: 20px;
+}
+
+header .logo {
+	color: #fff;
+	text-decoration: none;
+	font-size: 50px;
+	font-family: 'Julius Sans One', 'Courier New', Courier, monospace;
+}
+
+header .social {
+	width: 5rem;
+	margin-right: 20px;
+}
+
+.main-flex {
+	display: block;
+	margin: 2.5rem auto;
+	width: 40rem;
+}
