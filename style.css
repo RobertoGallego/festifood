@@ -57,9 +57,11 @@ header .social {
 	padding: 1rem;
 	text-align: center;
 	background: #EF8334;
+	color: #fff;
 }
 
 .block h1 {
+	color: #000;
 	margin-bottom: 0.5rem;
 }
 
